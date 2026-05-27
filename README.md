@@ -8,6 +8,7 @@
 ---
 
 ## 🚀 Skills
+
 - NextJS
 - NodeJS
 - Java
@@ -18,12 +19,13 @@
 ---
 
 ## 📌 Projects
-- Full Stack Web Applications
-- Backend API Projects
-- Data Analytics Projects
+- E-Commerce Web Application
+- REST API Backend Project
+- Data Analytics Dashboard
+- Java Problem Solving Projects
 
 ---
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/PUNIT-CS23
-- LinkedIn: https://www.linkedin.com/in/punit-kumar-sharma-38002a2a8?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- LinkedIn:https://www.linkedin.com/in/punit-kumar-sharma-38002a2a8
