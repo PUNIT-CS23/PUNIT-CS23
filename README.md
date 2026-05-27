@@ -26,4 +26,4 @@
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/PUNIT-CS23
-- LinkedIn: Add your LinkedIn link
+- LinkedIn: https://www.linkedin.com/in/punit-kumar-sharma-38002a2a8?utm_source=share_via&utm_content=profile&utm_medium=member_android
