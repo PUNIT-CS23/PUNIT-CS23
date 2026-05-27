@@ -1,12 +1,29 @@
-- 👋 Hi, I’m @PUNIT-CS23
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Punit Sharma 👋
 
-<!---
-PUNIT-CS23/PUNIT-CS23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 B.Tech CSE Student  
+💻 Full Stack Developer  
+📊 Data Analytics & Problem Solving Enthusiast  
+📄 IEEE Published Researcher  
+
+---
+
+## 🚀 Skills
+- NextJS
+- NodeJS
+- Java
+- SQL
+- Git & GitHub
+- REST APIs
+
+---
+
+## 📌 Projects
+- Full Stack Web Applications
+- Backend API Projects
+- Data Analytics Projects
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/PUNIT-CS23
+- LinkedIn: Add your LinkedIn link
